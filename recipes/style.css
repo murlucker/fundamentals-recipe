@@ -9,4 +9,5 @@ li {
 .description {
     background-color: hsl(51, 100%, 84%);
     text-align: left;
+    width: fit-content;
 }
