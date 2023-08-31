@@ -1,0 +1,12 @@
+h1 {
+    color: brown;
+}
+
+li {
+    padding: 5px;
+}
+
+.description {
+    background-color: hsl(51, 100%, 84%);
+    text-align: left;
+}
