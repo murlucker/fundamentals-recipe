@@ -2,3 +2,11 @@
 h1 {
     color: brown;
 }
+
+.menu {
+    display: block;
+    background-color: hsl(44, 100%, 66%);
+    width: fit-content;
+    border: solid 2px black;
+    margin: 8px;
+}
